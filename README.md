@@ -12,6 +12,16 @@ This project contains the code for Lab 6 of the Data 1202 course, focusing on su
 
 ### Installing
 1. pip install numpy pandas:
+## Running the tests
+
+The notebook does not include specific tests but demonstrates the following:
+- Using `iloc` for subsetting datasets.
+- Creating and using functions in Python.
+
+## Deployment
+
+To run the notebook:
+1. Open Jupyter Notebook:
 2. Navigate to the project directory and open `Lab6_week8.ipynb`.
 
 ## Built With
@@ -31,12 +41,11 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 * **Viral Tailor** - *Initial work* - [Your GitHub Profile](https://github.com/Vrocks1987/Assignment-5---100931284/edit/main/README.md)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Acknowledgments
 
-* Special thanks to the instructors of Data 1202 for their guidance.
+* Special thanks to the instructors Prof. Omar of Data 1202 for their guidance.
+
